@@ -1,4 +1,4 @@
-# Black-Friday-Sales-Prediction
+# Optimizing Black Friday Sales Forecasts
 ![alt text](https://ordorite.com/wp-content/uploads/2019/11/Black-friday-sales_image_blog-Nov-2019.jpg "Black Friday Sales Prediction")
 
 ## Table Of Contents
